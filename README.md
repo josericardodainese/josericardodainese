@@ -37,7 +37,3 @@ Algumas idéias de como começar :
 <a href="https://github.com/corujaodev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josericardodainese&show_icons=true&theme=light&line_height=27" alt="José Ricardo Dainese's github stats"/>
 </a>
-
-<a href="https://github.com/corujaodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josericardodainese&theme=light&hide_langs_below=1" />
-</a>
