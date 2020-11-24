@@ -12,6 +12,7 @@ Algumas idéias de como começar :
 
 <br/>
 <br/>
+<h3>Algumas das Linguegens e ferramentas que já trabalhei 👋</h3>
 
 <code><img height="20" src="https://github.com/github/explore/blob/master/topics/java/java.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/master/topics/spring-boot/spring-boot.png"></code>
