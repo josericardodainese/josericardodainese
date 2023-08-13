@@ -1,5 +1,6 @@
 ### Seja Bem Vindo 👋
 
+<a href="https://app.daily.dev/ricardodainese"><img src="https://api.daily.dev/devcards/70493466a2844d21abce03d9c289a335.png?r=vvd" width="200" alt="Ricardo Dainese's Dev Card"/></a>
 
 Algumas idéias de como começar :
 
